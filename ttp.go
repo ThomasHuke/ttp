@@ -1,11 +1,11 @@
 package ttp
 
-import(
-"github.com/googege/goo"
-"fmt"
+import (
+	"github.com/googege/goo"
 )
+
 // TT is a test function.
-func TT(){
-s := goo.Join(nil,"1","2","3")
-fmt.Println(s)
+func TT() {
+	goo.Join(nil, "1", "2", "3")
+
 }
