@@ -12,6 +12,8 @@ github.com/fatih/structtag v1.0.0 h1:pTHj65+u3RKWYPSGaU290FpI/dXxTaHdVwVwbcPKmEc
 github.com/fatih/structtag v1.0.0/go.mod h1:IKitwq45uXL/yqi5mYghiD3w9H6eTOvI9vnk8tXMphA=
 github.com/googege/goo v0.0.0-20181231133206-636b858ab3f7 h1:cdXg0odqdf17RSB2d7b20mSz+HIUFSZL1oeQ+EksASY=
 github.com/googege/goo v0.0.0-20181231133206-636b858ab3f7/go.mod h1:9EoKxq6e2zR4w/Omh6oGwNu4NAwK06e0/aeMet4EdIQ=
+github.com/googege/goo v0.0.0-20190105063156-8ee1ca05b9b2 h1:7eVXyU5Gp1V3DcY1Rce5Wg+HtWOW4BE4OsMefv2WQKI=
+github.com/googege/goo v0.0.0-20190105063156-8ee1ca05b9b2/go.mod h1:Y/v8X/9WmK2fwZUF5I8YjIqDmErbZ22hXBafviYX9AA=
 github.com/google/shlex v0.0.0-20181106134648-c34317bd91bf h1:7+FW5aGwISbqUtkfmIpZJGRgNFg2ioYPvFaUxdqpDsg=
 github.com/google/shlex v0.0.0-20181106134648-c34317bd91bf/go.mod h1:RpwtwJQFrIEPstU94h88MWPXP2ektJZ8cZ0YntAmXiE=
 github.com/mdempsky/gocode v0.0.0-20181226182234-be056ad32a5e h1:izuz4mCsxWEajlt9EXVowXPciDGsgn8bDEqylsz98Rw=
@@ -37,6 +39,8 @@ golang.org/x/tools v0.0.0-20181207195948-8634b1ecd393/go.mod h1:n7NCudcB/nEzxVGm
 golang.org/x/tools v0.0.0-20181221235234-d00ac6d27372/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
 golang.org/x/tools v0.0.0-20190103205943-8a6051197512 h1:cPzUDKmykdmMxTKZILiVfXIbNBgLkSVoG2KcpNQWhu4=
 golang.org/x/tools v0.0.0-20190103205943-8a6051197512/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
+golang.org/x/tools v0.0.0-20190104182027-498d95493402 h1:OWOoOXVO7TiAe7djxWtdLAfVGJsPygFlLYlo+MyngLU=
+golang.org/x/tools v0.0.0-20190104182027-498d95493402/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
 gopkg.in/alecthomas/kingpin.v3-unstable v3.0.0-20180810215634-df19058c872c h1:vTxShRUnK60yd8DZU+f95p1zSLj814+5CuEh7NjF2/Y=
 gopkg.in/alecthomas/kingpin.v3-unstable v3.0.0-20180810215634-df19058c872c/go.mod h1:3HH7i1SgMqlzxCcBmUHW657sD4Kvv9sC3HpL3YukzwA=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=

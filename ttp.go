@@ -6,6 +6,5 @@ import (
 
 // TT is a test function.
 func TT() {
-	goo.Join(nil, "1", "2", "3")
-
+	goo.Join([]string{"1", "2"}, ":::", "1", "2", "3", "4")
 }
